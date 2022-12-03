@@ -1,6 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 .heading {
     background-color: red;
 }
+
 div {
     background-color: #E4F9F5;
 }
@@ -65,18 +71,13 @@ a:hover {
 
 .contact-message {
     width: 40%;
-    margin: 40px auto 60px auto;
+    text-align: center;
 }
 
 .top-container {
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
-}
-
-.middle-container {
-    margin: 100px 0;
-
 }
 
 .bottom-container {
